@@ -15,7 +15,7 @@ const styles = {
   card: {
     width: "180px",
     padding: "2em",      
-    borderRadius: "30px",
+    borderRadius: "40px",
     backgroundColor: "#f0f8ff",
     boxShadow: "0 10px 20px rgba(0,0,0,0.2)",
     textAlign: "center",
