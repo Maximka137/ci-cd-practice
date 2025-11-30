@@ -13,11 +13,11 @@ const ProfileCard = ({ name, position, photoSrc, photoAlt }) => {
 
 const styles = {
   card: {
-    width: "150px",
-    padding: "1em",
-    borderRadius: "10px",
-    backgroundColor: "#fff",
-    boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+    width: "180px",
+    padding: "2em",      
+    borderRadius: "30px",
+    backgroundColor: "#f0f8ff",
+    boxShadow: "0 10px 20px rgba(0,0,0,0.2)",
     textAlign: "center",
     margin: "1em",
     display: "flex",
