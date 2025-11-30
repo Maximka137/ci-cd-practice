@@ -13,7 +13,7 @@ const Body = () => {
       <ProfileCard
         name="Maks Verkhovynets"
         position="Software engineer"
-        photoSrc="/avatar-default.png"
+        photoSrc="/maksik.jpg"
         photoAlt="Maks Verkhovynets"
       />
 
