@@ -9,6 +9,13 @@ const Body = () => {
         photoSrc="/avatar-default.png"
         photoAlt="Maksym Kostyshyn"
       />
+
+      <ProfileCard
+        name="Maks Verkhovynets"
+        position="Software engineer"
+        photoSrc="/avatar-default.png"
+        photoAlt="Maks Verkhovynets"
+      />
     </main>
   );
 };
@@ -17,6 +24,7 @@ const styles = {
   body: {
     display: "flex",
     flexWrap: "wrap",
+    gap: "20px",
   },
 };
 
