@@ -6,14 +6,14 @@ const Body = () => {
       <ProfileCard
         name="Maksym Kostyshyn"
         position="Software engineer"
-        photoSrc="/maks.jpg"
+        photoSrc="/maks.JPG"
         photoAlt="Maksym Kostyshyn"
       />
 
       <ProfileCard
         name="Maks Verkhovynets"
         position="Software engineer"
-        photoSrc="/maksik.jpg"
+        photoSrc="/maksik.JPG"
         photoAlt="Maks Verkhovynets"
       />
 
@@ -31,7 +31,7 @@ const Body = () => {
           photoAlt="Saluk Diana"
       />
 
-      <h1>Test header</h1>
+      <h1>Test</h1>
     </main>
   );
 };
